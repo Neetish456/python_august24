@@ -1,0 +1,1 @@
+#problem statement : Assume 1 and 2 are 1st 2 terms of the series and print the 1st N term of Fibo series (HemaChandra numbers)
